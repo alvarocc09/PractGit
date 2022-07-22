@@ -1,9 +1,4 @@
 
-
-mtcars
-2+8
-
-
         ### ATAJOS ###
 
 # Alt + enter         -- correr codigo sin bajar de linea

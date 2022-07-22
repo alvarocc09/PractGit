@@ -1,10 +1,4 @@
 
-
-mtcars
-2+8
-
-
-
           ## PRUEBAS PARAMETRICAS PARA Q_A ##
 
         # VARIABLE CANTIDAD DE GRAMOS DE ALCOHOL #
