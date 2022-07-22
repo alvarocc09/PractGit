@@ -1,6 +1,11 @@
 
 
 # Hola de nuevo esto es pi3
+2+5
+2==5
+mtcars
+
+
 
         ### ATAJOS ###
 
